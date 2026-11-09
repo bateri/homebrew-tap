@@ -2,8 +2,7 @@ cask "bateri" do
   version :latest
   sha256 :no_check
 
-  url "https://github.com/bateri/bateri/releases/latest/download/bateri.dmg",
-      verified: "github.com/bateri/bateri/"
+  url "https://github.com/bateri/bateri/releases/latest/download/bateri.dmg"
   name "bateri"
   desc "GPU-drawn terminal"
   homepage "https://bateri.dev/"
